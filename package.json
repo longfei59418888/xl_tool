@@ -1,0 +1,14 @@
+{
+  "name": "xl_tool",
+  "version": "1.0.0",
+  "description": "git 腾讯_cdn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cos-nodejs-sdk-v5": "2.2.6"
+  }
+}
